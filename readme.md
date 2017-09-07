@@ -7,7 +7,7 @@ By reducing the dimensionality, the extra dimensions are freed up which allows c
 
 ![superposition](http://i.imgur.com/z9cfCzm.gif)
 
-The ring in the center is a superposition of the first 9 harmonics. The 9 harmonics can be seen out in the background. The camera is rotating around the center ring, but the center ring is also rotating at a different rate.
+The ring in the center is a superposition of the first 9 harmonics. The 9 harmonics can be seen out in the background. The camera is rotating around the center ring, but the center ring is also rotating at a different rate. Notice how complex waves look like spirals.
 
 ___
 
